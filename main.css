@@ -1,0 +1,82 @@
+*{
+    font-family: calibri;
+}
+/* SINGUP */
+body{
+    background: #eee;
+}
+
+#singup{
+    width: 700px;
+    border: 1px solid dodgerblue;
+    border-radius: 15px;
+    background: #fff;
+}
+
+.logo{
+    margin: 15px 200px 10px;
+}
+
+#inputPassword6{
+   width: 250px;
+   
+}
+#SINGUP{
+    width: 150px;
+    margin-left: 250px;
+    border: 1px solid dodgerblue;
+    border-radius: 20px;
+}
+
+/* ########### SIngUP ############### */
+
+/* ########## INDEX ################ */
+#kolomcerita{
+    margin-top: -295px;
+    margin-left: 200px; 
+    width: 1000px;
+    background: transparent;
+}
+#kiributton{
+    width: 200px;
+}
+#jadwalpesan{
+    width: 300px;
+}
+#buttonpesan{
+    border-radius: 15px;
+    border:1px solid dodgerblue;
+}
+#buttonpesan:hover{
+    color: red;
+}
+#kotak{
+    border:1px solid dodgerblue;
+    border-radius: 10px;
+}
+#button-addon2{
+    width: 200px;
+}
+#button-addon1{
+    width: 500px;
+}
+#email{
+    width: 250px;
+    margin-left: 15px;
+}
+
+#singin{
+    width: 350px;
+    border: 1px solid dodgerblue;
+    border-radius: 15px;
+    background: #fff;
+}
+#SINGIN{
+    width: 150px;
+    margin-left: 80px;
+    border: 1px solid dodgerblue;
+    border-radius: 20px;
+}
+.logo1{
+    margin: 10px 35px 10px;
+}
